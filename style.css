@@ -747,7 +747,7 @@ footer{
     position: relative;
     width: 100vw;
     height: 60vh;
-    background-image: url('images/poor_girl_child.jpg');
+    background-image: url('poor_girl_child.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -807,7 +807,7 @@ footer{
 .more-about-image{
     width: 50%;
     height: 100%;
-    background-image: url('images/poor_girl_child.jpg');
+    background-image: url('poor_girl_child.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
